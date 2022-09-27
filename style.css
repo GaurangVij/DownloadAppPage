@@ -1,0 +1,18 @@
+#jumbotron{
+    background: url("images/bg1.png");
+}
+.footer{
+    background-color: rgb(2, 7, 7);
+    padding-top: 100px;
+    padding-bottom: 100px;
+   /* border-radius: 25%; */
+}.footer img{
+    /* width:100%; */
+    border-radius: 10%;
+    width: auto;
+    border: solid 20px grey;
+}
+
+.decoration{
+    color: red;
+}
