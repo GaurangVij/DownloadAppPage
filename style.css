@@ -1,5 +1,6 @@
 #jumbotron{
-    background: url("images/bg1.png");
+    background: url("https://images.pexels.com/photos/6335/man-coffee-cup-pen.jpg?auto=compress&cs=tinysrgb&w=1600");
+    background-repeat:no-repeat;
 }
 .footer{
     background-color: rgb(2, 7, 7);
